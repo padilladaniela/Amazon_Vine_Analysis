@@ -8,7 +8,12 @@ The analysis uses PySpark to perform the ETL process to extract the dataset, tra
 
 ## Results
 - The Table_check.png shows that the data was succesfully loaded into pgAdmin.
-![image] (https://github.com/padilladaniela/Amazon_Vine_Analysis/blob/main/Table_check.png)
+
+![Summary](https://github.com/padilladaniela/Amazon_Vine_Analysis/blob/main/Table_check.png)
+
+![paid]https://github.com/padilladaniela/Amazon_Vine_Analysis/blob/main/paid_reviews.png
+
+![unpaid]https://github.com/padilladaniela/Amazon_Vine_Analysis/blob/main/unpaid_reviews.png
 
 ## Summary
 
